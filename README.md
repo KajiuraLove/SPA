@@ -1,2 +1,3 @@
 # SPA_indicadoresEconomicos
-NodeJS | ReactJS | Single Page Application. Consume API desde www.mindicador.cl
+NodeJS | ReactJS | Single Page Application. 
+Created @https://github.com/KajiuraLove/SPA
